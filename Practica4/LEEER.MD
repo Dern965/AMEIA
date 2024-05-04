@@ -1,0 +1,1 @@
+Si lo van a copiar usen el archivo [si.ipynb](si.ipynb), y ya le cambian las variables y todo lo que puedan jajaja
